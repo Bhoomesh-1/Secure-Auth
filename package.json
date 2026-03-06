@@ -1,0 +1,17 @@
+{
+  "name": "capstone-project",
+  "version": "1.0.0",
+  "description": "A capstone-level secure authentication system built with React (frontend) and Flask (backend), implementing industry-standard security practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-scripts": "^5.0.1"
+  }
+}
